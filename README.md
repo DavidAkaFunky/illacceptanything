@@ -367,7 +367,7 @@ ps.imapankace
 
 ### Linux x Mac x Windows for dev
 
-- 2   Linux
+- 3   Linux
 - 0   Mac
 - 0   Windows
 
@@ -375,11 +375,11 @@ ps.imapankace
 
 - 0.75   Linux
 - 0     Mac
-- 1.25   Windows
+- 2.25   Windows
 
 ### Linux x Mac x Windows you are using right now
 
 - 3   Linux
 - 1   Mac
-- -1   Windows
+- 0   Windows
 
